@@ -1,1 +1,1 @@
-# ESP32_based_30amo_home_automation_pcb_in_ki-cad
+# ESP32_based_30amp_home_automation_pcb_in_ki-cad
